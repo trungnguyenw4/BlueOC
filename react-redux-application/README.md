@@ -24,3 +24,17 @@ Redux
 Redux Toolkit
 Redux Persist
 CSS
+
+## Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/trungnguyenw4/BlueOC/edit/main/react-redux-application
+   cd react-redux-posts
+
+2. Install dependencies:
+    npm install
+
+3. Start the application:
+    npm start
