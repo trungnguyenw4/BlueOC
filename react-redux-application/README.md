@@ -34,7 +34,9 @@ CSS
    cd react-redux-posts
 
 2. Install dependencies:
-    npm install
+   ```
+   npm install
 
-3. Start the application:
+4. Start the application:
+   ```
     npm start
